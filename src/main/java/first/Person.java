@@ -1,4 +1,4 @@
-package first.class.java;
+package first;
 
 
 public class Person {
@@ -23,5 +23,6 @@ public class Person {
         return "Person{" + "name='" + name + '\''+ ", surname='" + surname +
         '\'' + ", idNumber='" + idNumber + '\'' + ", birthYear='" + birthYear + '}';
     }
+
 }
 
